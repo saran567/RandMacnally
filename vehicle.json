@@ -1,10 +1,4 @@
-{
-	"companyCode": "RM-036362",
-	"startIndex": "1",
-	"accessToken": "TR01-us04-2020",
-	"timestamp": "2-9-2020"
-}
-' {
+ {
 	"response": {
 		"code": 20000,
 		"type": "Success",
