@@ -1,0 +1,4692 @@
+{
+	"response": {
+		"code": 20000,
+		"type": "Success",
+		"message": "OK"
+	},
+	"hos": [{
+		"index": 5822210,
+		"driverLoginId": "SANERN",
+		"createdDate": "12-28-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "12-30-2019 15:19:16",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5822211,
+		"driverLoginId": "SANERN",
+		"createdDate": "12-29-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "12-30-2019 15:19:16",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5817508,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 1483,
+		"offDutyTime": 32486,
+		"drivingTime": 14499,
+		"sleeperBerthTime": 37932,
+		"tripDistance": 351.2,
+		"timeZone": "CST",
+		"lastModifiedDate": "12-31-2019 06:28:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "103145780",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": "12-30-2019 15:08:45"
+		}, {
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "12-30-2019 15:08:45",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5822448,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 9165,
+		"offDutyTime": 45402,
+		"drivingTime": 25908,
+		"sleeperBerthTime": 5925,
+		"tripDistance": 359.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "12-31-2019 08:35:19",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN1",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5817259,
+		"driverLoginId": "RICBIL",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 2747,
+		"offDutyTime": 0,
+		"drivingTime": 24300,
+		"sleeperBerthTime": 59353,
+		"tripDistance": 371.4,
+		"timeZone": "CST",
+		"lastModifiedDate": "12-31-2019 17:21:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5826307,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 746,
+		"offDutyTime": 16917,
+		"drivingTime": 7016,
+		"sleeperBerthTime": 61721,
+		"tripDistance": 160.9,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-01-2020 13:11:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837882,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-24-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837883,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-25-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837884,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-26-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837885,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-27-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837886,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-28-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837887,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-29-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837888,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837889,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5837890,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 11:44:28",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5817313,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 82226,
+		"drivingTime": 4174,
+		"sleeperBerthTime": 0,
+		"tripDistance": 264.7,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:34:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5829361,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 572,
+		"offDutyTime": 80183,
+		"drivingTime": 5645,
+		"sleeperBerthTime": 0,
+		"tripDistance": 287.2,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:34:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5836626,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:34:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843123,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-24-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:40:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843124,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-25-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:40:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843125,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-26-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:40:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843126,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-27-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:40:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843127,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-28-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:40:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843128,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-29-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:40:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843129,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:41:53",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843130,
+		"driverLoginId": "SHERIC",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:41:53",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843131,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 18:41:53",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5829453,
+		"driverLoginId": "RICBIL",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 2419,
+		"offDutyTime": 34561,
+		"drivingTime": 9924,
+		"sleeperBerthTime": 39496,
+		"tripDistance": 151.5,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 20:12:45",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5831479,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-02-2020 20:15:23",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5835900,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 4524,
+		"offDutyTime": 28500,
+		"drivingTime": 4186,
+		"sleeperBerthTime": 49190,
+		"tripDistance": 196.7,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-03-2020 07:30:15",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850053,
+		"driverLoginId": "SANERN",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-03-2020 15:07:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850054,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-03-2020 15:07:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850055,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-03-2020 15:07:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5822212,
+		"driverLoginId": "SANERN",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 7380,
+		"offDutyTime": 54000,
+		"drivingTime": 25020,
+		"sleeperBerthTime": 0,
+		"tripDistance": 411.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-03-2020 15:08:49",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "12-30-2019 15:40:04",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5825605,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 0,
+		"drivingTime": 0,
+		"sleeperBerthTime": 86400,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-03-2020 20:27:05",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850643,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 0,
+		"drivingTime": 0,
+		"sleeperBerthTime": 86400,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-03-2020 20:27:05",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850644,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 0,
+		"drivingTime": 0,
+		"sleeperBerthTime": 86400,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-03-2020 20:27:05",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "5951132",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "01-02-2020 00:00:00",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5826852,
+		"driverLoginId": "BARKAT",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 1267,
+		"offDutyTime": 65051,
+		"drivingTime": 6565,
+		"sleeperBerthTime": 13517,
+		"tripDistance": 87.9,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-04-2020 04:28:57",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BARKAT",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "13224803",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5831107,
+		"driverLoginId": "BARKAT",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-04-2020 04:28:57",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BARKAT",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "13224803",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5835191,
+		"driverLoginId": "BARKAT",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 1392,
+		"offDutyTime": 58344,
+		"drivingTime": 26664,
+		"sleeperBerthTime": 0,
+		"tripDistance": 16.7,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-04-2020 04:28:57",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BARKAT",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "13224803",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5853957,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 758,
+		"offDutyTime": 32957,
+		"drivingTime": 34104,
+		"sleeperBerthTime": 18581,
+		"tripDistance": 729.1,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-05-2020 19:39:03",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5858664,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 64287,
+		"drivingTime": 1434,
+		"sleeperBerthTime": 20679,
+		"tripDistance": 11.6,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 08:47:24",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5870588,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 15:43:36",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5870589,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 15:43:36",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5870590,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 15:43:36",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850056,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 9180,
+		"offDutyTime": 51720,
+		"drivingTime": 25500,
+		"sleeperBerthTime": 0,
+		"tripDistance": 426.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 16:58:25",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244007",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "01-03-2020 14:56:37",
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928846",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "01-03-2020 16:50:40",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5871292,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 16:58:25",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244007",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928846",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5871293,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 16:58:25",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244007",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928846",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5835655,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.1,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 18:27:36",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5846859,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 18:28:13",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5854302,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 18:28:13",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5858982,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-06-2020 18:28:13",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5858257,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-07-2020 03:06:13",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "5951132",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5870591,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-06-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 18.7,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 08:38:08",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5836627,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 1302,
+		"offDutyTime": 60557,
+		"drivingTime": 24541,
+		"sleeperBerthTime": 0,
+		"tripDistance": 366.2,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 12:38:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5846673,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 64023,
+		"drivingTime": 22377,
+		"sleeperBerthTime": 0,
+		"tripDistance": 305.7,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 12:38:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5870528,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 12:38:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5870529,
+		"driverLoginId": "OWEJOV",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 12:38:27",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "JOVAN",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879969,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-25-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879970,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-26-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879971,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-27-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879972,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-28-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879973,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-29-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879974,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-30-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879975,
+		"driverLoginId": "CARRAN",
+		"createdDate": "12-31-2019 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879976,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-01-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879977,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879978,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879979,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879980,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879981,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-06-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 15:29:44",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5850610,
+		"driverLoginId": "BARKAT",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 86,
+		"offDutyTime": 44192,
+		"drivingTime": 42122,
+		"sleeperBerthTime": 0,
+		"tripDistance": 30.4,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-07-2020 17:17:32",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BARKAT",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "13224803",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5853485,
+		"driverLoginId": "BARKAT",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 1104,
+		"offDutyTime": 7635,
+		"drivingTime": 32592,
+		"sleeperBerthTime": 45069,
+		"tripDistance": 527.2,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-07-2020 17:17:32",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BARKAT",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "13224803",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5874685,
+		"driverLoginId": "BARKAT",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 0,
+		"drivingTime": 0,
+		"sleeperBerthTime": 86400,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-07-2020 17:17:32",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BARKAT",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "13224803",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5864589,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-06-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 34.2,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-07-2020 17:34:39",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5864226,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "01-06-2020 00:00:00",
+		"onDutyTime": 2377,
+		"offDutyTime": 66828,
+		"drivingTime": 14466,
+		"sleeperBerthTime": 2729,
+		"tripDistance": 202.7,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 00:46:25",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879982,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-07-2020 00:00:00",
+		"onDutyTime": 18459,
+		"offDutyTime": 51269,
+		"drivingTime": 16672,
+		"sleeperBerthTime": 0,
+		"tripDistance": 488.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 07:42:12",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5876969,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-07-2020 00:00:00",
+		"onDutyTime": 572,
+		"offDutyTime": 57729,
+		"drivingTime": 28099,
+		"sleeperBerthTime": 0,
+		"tripDistance": 475.6,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 08:16:20",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5876343,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "01-07-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 84619,
+		"drivingTime": 0,
+		"sleeperBerthTime": 1781,
+		"tripDistance": 48.1,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 13:17:34",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5876285,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-07-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 31.9,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 15:17:54",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5843132,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-02-2020 00:00:00",
+		"onDutyTime": 2615,
+		"offDutyTime": 61739,
+		"drivingTime": 22046,
+		"sleeperBerthTime": 0,
+		"tripDistance": 337.9,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 17:50:32",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5846874,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-03-2020 00:00:00",
+		"onDutyTime": 2468,
+		"offDutyTime": 12460,
+		"drivingTime": 36043,
+		"sleeperBerthTime": 35429,
+		"tripDistance": 605.9,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 17:50:32",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5854207,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-04-2020 00:00:00",
+		"onDutyTime": 2412,
+		"offDutyTime": 51661,
+		"drivingTime": 32327,
+		"sleeperBerthTime": 0,
+		"tripDistance": 547.3,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 17:50:32",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5858907,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-05-2020 00:00:00",
+		"onDutyTime": 814,
+		"offDutyTime": 74200,
+		"drivingTime": 11386,
+		"sleeperBerthTime": 0,
+		"tripDistance": 258.8,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 17:50:32",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5888292,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-06-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 17:50:32",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5888293,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-07-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 17:50:32",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5871294,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-06-2020 00:00:00",
+		"onDutyTime": 7680,
+		"offDutyTime": 31800,
+		"drivingTime": 39540,
+		"sleeperBerthTime": 7380,
+		"tripDistance": 696.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 19:42:03",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244007",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928846",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5879277,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-07-2020 00:00:00",
+		"onDutyTime": 3000,
+		"offDutyTime": 43140,
+		"drivingTime": 11580,
+		"sleeperBerthTime": 28680,
+		"tripDistance": 161.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-08-2020 19:42:13",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244007",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": "01-07-2020 08:12:12"
+		}, {
+			"bolNumber": "999928846",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": "01-07-2020 08:12:12"
+		}, {
+			"bolNumber": "260035",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "01-07-2020 08:12:12",
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1076328",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "01-07-2020 08:12:12",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5884513,
+		"driverLoginId": "ANDDAN",
+		"createdDate": "01-08-2020 00:00:00",
+		"onDutyTime": 2218,
+		"offDutyTime": 37156,
+		"drivingTime": 25922,
+		"sleeperBerthTime": 21104,
+		"tripDistance": 558.8,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-09-2020 11:07:42",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "DANIEL ANDERSON",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "25669",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5884521,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-08-2020 00:00:00",
+		"onDutyTime": 9862,
+		"offDutyTime": 37557,
+		"drivingTime": 20033,
+		"sleeperBerthTime": 18948,
+		"tripDistance": 253.8,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-09-2020 11:42:48",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5885080,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-08-2020 00:00:00",
+		"onDutyTime": 1109,
+		"offDutyTime": 61761,
+		"drivingTime": 23530,
+		"sleeperBerthTime": 0,
+		"tripDistance": 420.5,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-09-2020 11:59:05",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5889266,
+		"driverLoginId": "SANERN",
+		"createdDate": "01-08-2020 00:00:00",
+		"onDutyTime": 7800,
+		"offDutyTime": 32460,
+		"drivingTime": 38160,
+		"sleeperBerthTime": 7980,
+		"tripDistance": 650.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-09-2020 15:50:22",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "ERNESTO SANCHEZ",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "S149067",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5031102",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5033105",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "S279511",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "HN715720",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "KY10283",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5035898",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855049",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243526",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1855643",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243510",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928397",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5040849",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "999928545",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "A5474",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243744",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "73336244",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "243788",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122A",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122B",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "s23122C",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "5042947",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "244014",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "260035",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "1076328",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5883596,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "01-08-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-09-2020 20:44:35",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN1",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "5951132",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "0035956990",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5894041,
+		"driverLoginId": "ROBEMA",
+		"createdDate": "01-09-2020 00:00:00",
+		"onDutyTime": 637,
+		"offDutyTime": 72899,
+		"drivingTime": 12864,
+		"sleeperBerthTime": 0,
+		"tripDistance": 180.4,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-10-2020 09:13:08",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "MR",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5892597,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-09-2020 00:00:00",
+		"onDutyTime": 8372,
+		"offDutyTime": 9691,
+		"drivingTime": 32942,
+		"sleeperBerthTime": 35395,
+		"tripDistance": 389.6,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-10-2020 12:08:51",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "29244 pti",
+			"bolIsDst": true,
+			"tripName": "9274118",
+			"bolStartDate": null,
+			"bolEndDate": "01-09-2020 08:08:47"
+		}, {
+			"bolNumber": "19c6hydp",
+			"bolIsDst": true,
+			"tripName": "9298384",
+			"bolStartDate": "01-09-2020 08:08:47",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5892277,
+		"driverLoginId": "SHERIC",
+		"createdDate": "01-09-2020 00:00:00",
+		"onDutyTime": 0,
+		"offDutyTime": 86400,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 2.4,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-10-2020 14:34:53",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "RICK SHEELY",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "9260429",
+			"bolIsDst": true,
+			"tripName": "5255785",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5884280,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-08-2020 00:00:00",
+		"onDutyTime": 80662,
+		"offDutyTime": 0,
+		"drivingTime": 5738,
+		"sleeperBerthTime": 0,
+		"tripDistance": 85.9,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-10-2020 15:00:53",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5897590,
+		"driverLoginId": "CARRAN",
+		"createdDate": "01-09-2020 00:00:00",
+		"onDutyTime": 86400,
+		"offDutyTime": 0,
+		"drivingTime": 0,
+		"sleeperBerthTime": 0,
+		"tripDistance": 0.0,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-10-2020 15:00:55",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "CARDWELL",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5896763,
+		"driverLoginId": "GREKEN1",
+		"createdDate": "01-09-2020 00:00:00",
+		"onDutyTime": 115,
+		"offDutyTime": 58445,
+		"drivingTime": 0,
+		"sleeperBerthTime": 27840,
+		"tripDistance": 0.0,
+		"timeZone": "EST",
+		"lastModifiedDate": "01-10-2020 16:53:46",
+		"offset": "-5",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "GREKEN1",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "5951132",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "0035956990",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "CC01082020-1",
+			"bolIsDst": true,
+			"tripName": "My trip",
+			"bolStartDate": "01-09-2020 13:00:00",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}, {
+		"index": 5898810,
+		"driverLoginId": "RICBIL",
+		"createdDate": "01-10-2020 00:00:00",
+		"onDutyTime": 6406,
+		"offDutyTime": 13587,
+		"drivingTime": 30742,
+		"sleeperBerthTime": 35665,
+		"tripDistance": 466.8,
+		"timeZone": "CST",
+		"lastModifiedDate": "01-11-2020 13:11:01",
+		"offset": "-6",
+		"fleetName": "US1 Logistics LLC",
+		"isDst": 1,
+		"certifyComments": "BILLY RICE",
+		"hoSEvents": [],
+		"violations": [],
+		"coDriverList": [],
+		"bolList": [{
+			"bolNumber": "0296194",
+			"bolIsDst": true,
+			"tripName": "9205350",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "47369",
+			"bolIsDst": true,
+			"tripName": "9233805",
+			"bolStartDate": null,
+			"bolEndDate": null
+		}, {
+			"bolNumber": "19c6hydp",
+			"bolIsDst": true,
+			"tripName": "9298384",
+			"bolStartDate": null,
+			"bolEndDate": "01-10-2020 18:33:06"
+		}, {
+			"bolNumber": "34x653065",
+			"bolIsDst": true,
+			"tripName": "9301701",
+			"bolStartDate": "01-10-2020 18:33:06",
+			"bolEndDate": null
+		}],
+		"certificationLogs": [],
+		"qualityFlags": [],
+		"cycleTime": {
+			"totalTime": 0,
+			"remainingTime": 0
+		}
+	}]
+}
